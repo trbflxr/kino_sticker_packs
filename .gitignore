@@ -1,0 +1,18 @@
+.idea
+.vs
+.vscode
+*.csproj.user
+
+
+# map sdk
+*.sln
+*.csproj
+obj
+Logs
+Library
+UserSettings
+Temp
+Build
+
+#osx
+.DS_Store
