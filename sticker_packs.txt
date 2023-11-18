@@ -1,1 +1,3 @@
 nissanopti_font=100
+mariage_d_font=100
+pretoria_font=100
