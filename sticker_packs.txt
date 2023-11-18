@@ -1,1 +1,2 @@
 nissanopti_font=100
+modern_tribal=100
