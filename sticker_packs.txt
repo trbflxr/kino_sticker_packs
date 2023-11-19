@@ -16,3 +16,4 @@ hs_missilestyle=100
 hs_slappack=100
 hs_anime_silly_stuff=100
 stance_sticker_pack=100
+90s_tribal=100
