@@ -15,5 +15,5 @@ hs_kanjo_policepack=100
 hs_missilestyle=100
 hs_slappack=100
 hs_anime_silly_stuff=100
-stance_sticker_pack=100
+stance_sticker_pack=101
 90s_tribal=100
