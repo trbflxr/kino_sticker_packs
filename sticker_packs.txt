@@ -17,3 +17,7 @@ hs_slappack=100
 hs_anime_silly_stuff=100
 stance_sticker_pack=101
 90s_tribal=100
+blazed=100
+brush_script_mt=100
+eater_of_children=100
+operskie_delyshki=100
