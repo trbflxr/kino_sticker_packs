@@ -1,6 +1,6 @@
-nissanopti_font=100
-mariage_d_font=100
-pretoria_font=100
+nissanopti_font=101
+mariage_d_font=101
+pretoria_font=101
 modern_tribal=100
 hs_brandpack1=100
 hs_brandpack2=100
