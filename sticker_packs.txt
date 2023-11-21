@@ -21,3 +21,7 @@ blazed=100
 brush_script_mt=100
 eater_of_children=100
 operskie_delyshki=100
+banners=100
+misc_stickers=100
+pin_stripe=100
+sponsor_plates=100
