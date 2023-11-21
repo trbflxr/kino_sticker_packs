@@ -21,3 +21,7 @@ eater_of_children=100
 operskie_delyshki=100
 sponsor_plates=100
 banners=100
+kidtwk_hoodart=100
+a_another_tag_font=101
+don_graffiti_font=100
+flower_tribal_pack=102
