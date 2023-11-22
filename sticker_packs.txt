@@ -25,3 +25,4 @@ kidtwk_hoodart=100
 a_another_tag_font=101
 don_graffiti_font=100
 flower_tribal_pack=102
+misc_stickers=101
