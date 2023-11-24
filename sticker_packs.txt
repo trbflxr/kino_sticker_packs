@@ -9,6 +9,7 @@ hs_font_arial=100
 hs_font_challenge=100
 hs_font_signature=100
 hs_font_timesnewroman=100
+hs_font_harliquin_regular=100
 hs_jdm_usdmcringecollection=100
 hs_kanjo_policepack=100
 hs_missilestyle=100
