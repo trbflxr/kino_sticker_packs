@@ -29,3 +29,4 @@ don_graffiti_font=100
 flower_tribal_pack=102
 lbw_rb_pack=100
 misc_stickers=101
+teams_pack=105
