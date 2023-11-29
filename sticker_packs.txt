@@ -30,3 +30,4 @@ flower_tribal_pack=102
 lbw_rb_pack=100
 misc_stickers=101
 teams_pack=106
+soukoumincho_font=74
