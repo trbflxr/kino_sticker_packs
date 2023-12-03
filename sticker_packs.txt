@@ -32,3 +32,4 @@ misc_stickers=101
 teams_pack=107
 soukoumincho_font=74
 presencepack=100
+finalbout_pack=100
