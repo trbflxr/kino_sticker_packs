@@ -33,3 +33,4 @@ teams_pack=108
 soukoumincho_font=74
 presencepack=100
 finalbout_pack=100
+killstreak_misc_stickers_pack=100
