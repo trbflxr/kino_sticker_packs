@@ -5,6 +5,7 @@ hs_brandpack1=100
 hs_brandpack2=100
 hs_brandpack3=100
 hs_brandpack4=102
+hs_brandpack5=100
 hs_font_arial=100
 hs_font_challenge=100
 hs_font_signature=100
