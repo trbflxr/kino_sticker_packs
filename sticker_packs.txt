@@ -36,3 +36,7 @@ presencepack=100
 finalbout_pack=100
 killstreak_misc_stickers_pack=101
 tribals_pack=108
+vice_mixed_pack=100
+vice_pinstripe_pack=100
+mro_dec_sekia_hills=100
+font_impact_100
