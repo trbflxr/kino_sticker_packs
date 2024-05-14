@@ -41,3 +41,4 @@ vice_mixed_pack=100
 vice_pinstripe_pack=100
 mro_dec_sekia_hills=100
 font_impact=100
+kruks_brands_pack=100
