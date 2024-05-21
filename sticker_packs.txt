@@ -43,3 +43,4 @@ vice_pinstripe_pack=100
 mro_dec_sekia_hills=100
 font_impact=100
 kruks_brands_pack=100
+stance_sticker_pack_2=100
