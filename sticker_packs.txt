@@ -44,3 +44,4 @@ mro_dec_sekia_hills=100
 font_impact=100
 kruks_brands_pack=100
 stance_sticker_pack_2=100
+random_misc=100
